@@ -1,10 +1,14 @@
 # Aplikasi-Rate-Film
 Repository ini digunakan untuk pengumpulan tugas Rekayasa Piranti Lunak. 
 
+
 Kelompok Lagi Lagi
 
 1.Sisilya Veronica
+
 2.Raditya Naufal
+
+
 
 
 Link Canva:
